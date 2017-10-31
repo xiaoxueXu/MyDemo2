@@ -1,4 +1,7 @@
 新增了bbb.txt文件
+<<<<<<< HEAD
 新增了bbb.txt文件
 add public void aaa();
 add public int aaa();
+=======
+>>>>>>> parent of 044fa26... 修改了bbb.txt
